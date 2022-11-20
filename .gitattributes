@@ -1,1 +1,2 @@
 Makefile linguist-detectable=false
+env/*.go linguist-detectable
